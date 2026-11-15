@@ -1,13 +1,49 @@
 {
   "plugins": [
     {
-      "id": "billing-stripe",
-      "version": "0.1.2",
-      "displayName": "Billing (Stripe)",
       "description": "Planes, límites y checkout Stripe. Requerido por el resto de plugins premium.",
-      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-billing-stripe/releases/download/v0.1.2/plugin.tgz",
+      "displayName": "Billing (Stripe)",
+      "id": "billing-stripe",
+      "price": null,
       "signature": "bevyZESfMoDO1r0uZas7qv/92xE16Tz5senqhNTgXoSgdJczzA1PRb6itQg4I/XFfE52ONVrprqJFM185MoICA==",
-      "price": null
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-billing-stripe/releases/download/v0.1.2/plugin.tgz",
+      "version": "0.1.2"
+    },
+    {
+      "description": "API keys avanzadas, Fetch API extendida, WS channels y manifiesto MCP. Fachada: /fetch y ApiKeys básicas se quedan en el core.",
+      "displayName": "Dev Platform",
+      "id": "dev-platform",
+      "price": null,
+      "signature": null,
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-dev-platform/releases/download/v0.1.0/dev-platform-0.1.0.tgz",
+      "version": "0.1.0"
+    },
+    {
+      "description": "B2B clínica: organizaciones con jerarquía parentId, hospitales (networks legacy), invitaciones con token, consentimiento GDPR, DPA, auditoría y modo familiar.",
+      "displayName": "Clinic Suite",
+      "id": "clinic-suite",
+      "price": null,
+      "signature": null,
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-clinic-suite/releases/download/v0.1.0/clinic-suite-0.1.0.tgz",
+      "version": "0.1.0"
+    },
+    {
+      "description": "Insights Nexus AI (Ollama), informe semanal, alertas de sensor/glucosa, recordatorios y push FCM/WebPush.",
+      "displayName": "AI Reports",
+      "id": "ai-reports",
+      "price": null,
+      "signature": null,
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-ai-reports/releases/download/v0.1.0/ai-reports-0.1.0.tgz",
+      "version": "0.1.0"
+    },
+    {
+      "description": "Managed cloud polling (LibreLinkUp/Dexcom/CareLink/Tandem/Medtrum): credenciales cifradas, cola con jitter, egress IPv6/proxies y consola admin.",
+      "displayName": "Cloud Poller",
+      "id": "cloud-poller",
+      "price": null,
+      "signature": null,
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-cloud-poller/releases/download/v0.1.0/cloud-poller-0.1.0.tgz",
+      "version": "0.1.0"
     }
   ]
 }
