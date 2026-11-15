@@ -2,11 +2,11 @@
   "plugins": [
     {
       "id": "billing-stripe",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "displayName": "Billing (Stripe)",
       "description": "Planes, límites y checkout Stripe. Requerido por el resto de plugins premium.",
-      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-billing-stripe/releases/download/v0.1.1/plugin.tgz",
-      "signature": "A7L4vFripAMKJJTvrE1FnywC4hCnlEn8yrp+Uy2BKzFrN6aAoxpyJzG5+GyTSX8RmI2LcvwlRutSee/D5W5BCA==",
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-billing-stripe/releases/download/v0.1.2/plugin.tgz",
+      "signature": "bevyZESfMoDO1r0uZas7qv/92xE16Tz5senqhNTgXoSgdJczzA1PRb6itQg4I/XFfE52ONVrprqJFM185MoICA==",
       "price": null
     }
   ]
