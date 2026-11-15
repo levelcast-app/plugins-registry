@@ -5,7 +5,7 @@
       "displayName": "Billing (Stripe)",
       "id": "billing-stripe",
       "price": null,
-      "signature": "bevyZESfMoDO1r0uZas7qv/92xE16Tz5senqhNTgXoSgdJczzA1PRb6itQg4I/XFfE52ONVrprqJFM185MoICA==",
+      "signature": "X6KWGG4fGPmjr4KMtK4zwqfHtmxlEcIL6gP4WTkI5XdPZ8wQkrwOWLvXbaZqfQB4uF+zXrQwS5YapzlWnZtfCg==",
       "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-billing-stripe/releases/download/v0.1.2/plugin.tgz",
       "version": "0.1.2"
     },
@@ -14,7 +14,7 @@
       "displayName": "Dev Platform",
       "id": "dev-platform",
       "price": null,
-      "signature": null,
+      "signature": "RHHOBelAUBPuvidaiQ3OpLqQ72ED15SSLi6mI+1gOmKyDbE9KznhC3SC4J5KBtBhdy2faBV9MkmgGCBMj3vzBA==",
       "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-dev-platform/releases/download/v0.1.0/dev-platform-0.1.0.tgz",
       "version": "0.1.0"
     },
@@ -23,7 +23,7 @@
       "displayName": "Clinic Suite",
       "id": "clinic-suite",
       "price": null,
-      "signature": null,
+      "signature": "agxCtG6ea3qrhUIdUJ9PwYVQs5N7op/OnDp3XVJCMOQD4N6hcUalN3RTX+lEvqb26dJLNNSrTfiPYDPgPecLBg==",
       "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-clinic-suite/releases/download/v0.1.0/clinic-suite-0.1.0.tgz",
       "version": "0.1.0"
     },
@@ -32,7 +32,7 @@
       "displayName": "AI Reports",
       "id": "ai-reports",
       "price": null,
-      "signature": null,
+      "signature": "MZ//dA5CggklhLGRsJKUeoTZ5s9qlsxm6yYL/Lx81V9iViVhqCLq5Cdb2wL9+uQgBtw354+d+TjCQ/4n73p1DQ==",
       "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-ai-reports/releases/download/v0.1.0/ai-reports-0.1.0.tgz",
       "version": "0.1.0"
     },
@@ -41,7 +41,7 @@
       "displayName": "Cloud Poller",
       "id": "cloud-poller",
       "price": null,
-      "signature": null,
+      "signature": "th1z+mxlrczCVCRNNV6hTakFN7meXq/ZV56UdJJywJL3nZzB3KHNPuXqMaSqzX9e0Iury25yk7uZfm9li+npCw==",
       "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-cloud-poller/releases/download/v0.1.0/cloud-poller-0.1.0.tgz",
       "version": "0.1.0"
     }
