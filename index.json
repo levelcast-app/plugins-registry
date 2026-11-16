@@ -12,24 +12,27 @@
     {
       "description": "API keys avanzadas, Fetch API extendida, WS channels y manifiesto MCP. Fachada: /fetch y ApiKeys básicas se quedan en el core.",
       "displayName": "Dev Platform",
+      "frontend": null,
       "id": "dev-platform",
       "price": null,
-      "signature": "RHHOBelAUBPuvidaiQ3OpLqQ72ED15SSLi6mI+1gOmKyDbE9KznhC3SC4J5KBtBhdy2faBV9MkmgGCBMj3vzBA==",
-      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-dev-platform/releases/download/v0.1.0/dev-platform-0.1.0.tgz",
-      "version": "0.1.0"
+      "signature": "IdYb43xrwRO9Xd22vs1036HkkXRjuobi6FK0sMsrcjzewesp1hwliQVVVkWB59P2xhoQ9WAS7OgkAUI1T4SBw==",
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-dev-platform/releases/download/v0.2.1/plugin.tgz",
+      "version": "0.2.1"
     },
     {
       "description": "B2B clínica: organizaciones con jerarquía parentId, hospitales (networks legacy), invitaciones con token, consentimiento GDPR, DPA, auditoría y modo familiar.",
       "displayName": "Clinic Suite",
+      "frontend": null,
       "id": "clinic-suite",
       "price": null,
-      "signature": "agxCtG6ea3qrhUIdUJ9PwYVQs5N7op/OnDp3XVJCMOQD4N6hcUalN3RTX+lEvqb26dJLNNSrTfiPYDPgPecLBg==",
-      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-clinic-suite/releases/download/v0.1.0/clinic-suite-0.1.0.tgz",
-      "version": "0.1.0"
+      "signature": "cQJ705JbGQCF4nk9k8ANS29DyTMq/axGulWqiycDdZgxyRDiRJJtTdXQgGh8LK30zfXlI80x6eoS73V9L8JAQ==",
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-clinic-suite/releases/download/v0.2.0/clinic-suite-0.2.0.tgz",
+      "version": "0.2.0"
     },
     {
       "description": "Insights Nexus AI (Ollama), informe semanal, alertas de sensor/glucosa, recordatorios y push FCM/WebPush.",
       "displayName": "AI Reports",
+      "frontend": null,
       "id": "ai-reports",
       "price": null,
       "signature": "MZ//dA5CggklhLGRsJKUeoTZ5s9qlsxm6yYL/Lx81V9iViVhqCLq5Cdb2wL9+uQgBtw354+d+TjCQ/4n73p1DQ==",
