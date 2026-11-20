@@ -12,30 +12,66 @@
     {
       "description": "API keys avanzadas, Fetch API extendida, WS channels y manifiesto MCP. Fachada: /fetch y ApiKeys básicas se quedan en el core.",
       "displayName": "Dev Platform",
-      "frontend": null,
+      "frontend": {
+        "entry": "frontend.js",
+        "routes": [],
+        "nav": [],
+        "locales": [
+          "de",
+          "en",
+          "es",
+          "eu",
+          "fr",
+          "it",
+          "ja",
+          "pt",
+          "zh"
+        ],
+        "styles": [
+          "frontend.css"
+        ]
+      },
       "id": "dev-platform",
       "price": null,
-      "signature": "IdYb43xrwRO9Xd22vs1036HkkXRjuobi6FK0sMsrcjzewesp1hwliQVVVkWB59P2xhoQ9WAS7OgkAUI1T4SBw==",
-      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-dev-platform/releases/download/v0.2.1/plugin.tgz",
+      "signature": "E6gqhXCyWenJmsFFjAxAHR6oE4U5Uppm6R5taNtQvvKenCtFuDdr/f+94mSQIZ4iuQt5n7+W3xAh/87dCwtiCA==",
+      "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-dev-platform/releases/download/v0.2.1/dev-platform-0.2.1.tgz",
       "version": "0.2.1"
     },
     {
-      "description": "B2B clínica: organizaciones con jerarquía parentId, hospitales (networks legacy), invitaciones con token, consentimiento GDPR, DPA, auditoría y modo familiar.",
+      "description": "B2B clínica: organizaciones con jerarquía parentId, hospitales (networks legacy), invitaciones con token, consentimiento GDPR, DPA, auditoría y modo familiar. Dueño canónico de /api/v1/organizations, /api/v1/networks y /api/v1/family.",
       "displayName": "Clinic Suite",
-      "frontend": null,
+      "frontend": {
+        "entry": "frontend.js",
+        "routes": [],
+        "nav": [],
+        "locales": [
+          "de",
+          "en",
+          "es",
+          "eu",
+          "fr",
+          "it",
+          "ja",
+          "pt",
+          "zh"
+        ],
+        "styles": [
+          "frontend.css"
+        ]
+      },
       "id": "clinic-suite",
       "price": null,
-      "signature": "cQJ705JbGQCF4nk9k8ANS29DyTMq/axGulWqiycDdZgxyRDiRJJtTdXQgGh8LK30zfXlI80x6eoS73V9L8JAQ==",
+      "signature": "GHxujyjtJgbQkWJeSqkGsQ4as00IsKIbg+Yv/LjSK6WXMe+7I6zqLzQIEv6KEh+RAknmYc44cQlUVbwN2nlWAw==",
       "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-clinic-suite/releases/download/v0.2.0/clinic-suite-0.2.0.tgz",
       "version": "0.2.0"
     },
     {
-      "description": "Insights Nexus AI (Ollama), informe semanal, alertas de sensor/glucosa, recordatorios y push FCM/WebPush.",
+      "description": "Insights Nexus AI (Ollama), informe semanal, alertas de sensor/glucosa, recordatorios y push FCM/WebPush. Dueño canónico desde Fase 3.",
       "displayName": "AI Reports",
       "frontend": null,
       "id": "ai-reports",
       "price": null,
-      "signature": "MZ//dA5CggklhLGRsJKUeoTZ5s9qlsxm6yYL/Lx81V9iViVhqCLq5Cdb2wL9+uQgBtw354+d+TjCQ/4n73p1DQ==",
+      "signature": "c5bY3oc0WbrYIgHkhFV/mE9KUUlWigCDkvS2VKO24MXr4cz6EeDzE/p8nfL/6+3tWJXRQNKr8PFM+3Jmqq0hDQ==",
       "tarballUrl": "https://github.com/levelcast-app/levelcast-plugin-ai-reports/releases/download/v0.1.0/ai-reports-0.1.0.tgz",
       "version": "0.1.0"
     },
